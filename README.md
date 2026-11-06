@@ -44,3 +44,4 @@ La primera visita inicializa esos usuarios, tres barberos y los cinco servicios 
 - `src/utils/`: validaciones de formularios y reglas de disponibilidad/cola.
 - `src/data/seed.js`: datos iniciales para la primera ejecución.
 - `src/styles.css`: estilos y diseño adaptable.
+"# RA2-TDA" 
